@@ -2,7 +2,8 @@
 https://www.miui.com/unlock/index.html
 
 ## ROM  
-https://mirom.ezbox.idv.tw/phone/
+https://mirom.ezbox.idv.tw/phone/  
+https://xiaomi.eu/
 
 ## Cleaner  
 <pre>
