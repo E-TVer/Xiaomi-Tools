@@ -1,12 +1,10 @@
-# Xiaomi-Tools
-
-Unlock  
+## Unlock  
 https://www.miui.com/unlock/index.html
 
-ROM  
+## ROM  
 https://mirom.ezbox.idv.tw/phone/
 
-Cleaner  
+## Cleaner  
 <pre>
 <code>adb shell pm uninstall --user 0 com.android.browser
 adb shell pm uninstall --user 0 com.android.quicksearchbox
