@@ -4,6 +4,7 @@
 adb shell pm uninstall --user 0 com.android.quicksearchbox
 adb shell pm uninstall --user 0 com.mipay.wallet
 adb shell pm uninstall --user 0 com.miui.analytics
+adb shell pm uninstall --user 0 com.miui.huanji
 adb shell pm uninstall --user 0 com.miui.miservice
 adb shell pm uninstall --user 0 com.miui.personalassistant
 adb shell pm uninstall --user 0 com.miui.systemAdSolution
